@@ -1,0 +1,23 @@
+body {
+    font-family: lucida sans, sans-serif;
+}
+
+h1, h2 {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+table, th, tr, td {
+    border: 1px solid cornflowerblue;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+th {
+    background-color: deepskyblue
+}
